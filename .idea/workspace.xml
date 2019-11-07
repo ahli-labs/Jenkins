@@ -24,7 +24,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in java-maven-junit-helloworld (1)">
+  <component name="RunManager" selected="JUnit.HelloTest.testhelloHamzeh">
     <configuration name="All in java-maven-junit-helloworld (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-maven-junit-helloworld" />
       <option name="PACKAGE_NAME" value="" />
@@ -33,7 +33,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in java-maven-junit-helloworld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in java-maven-junit-helloworld (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-maven-junit-helloworld" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -41,7 +41,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloAppTest.testMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in java-maven-junit-helloworld (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-maven-junit-helloworld" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloAppTest.testTooHighArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-maven-junit-helloworld" />
       <extension name="coverage">
         <pattern>
@@ -51,7 +59,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.example.javamavenjunithelloworld" />
       <option name="MAIN_CLASS_NAME" value="com.example.javamavenjunithelloworld.HelloAppTest" />
-      <option name="METHOD_NAME" value="testMain" />
+      <option name="METHOD_NAME" value="testTooHighArgument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloTest.testhelloHamzeh" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-maven-junit-helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.javamavenjunithelloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.javamavenjunithelloworld" />
+      <option name="MAIN_CLASS_NAME" value="com.example.javamavenjunithelloworld.HelloTest" />
+      <option name="METHOD_NAME" value="testhelloHamzeh" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,9 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HelloTest.testhelloHamzeh" />
+        <item itemvalue="JUnit.All in java-maven-junit-helloworld (3)" />
+        <item itemvalue="JUnit.All in java-maven-junit-helloworld (2)" />
+        <item itemvalue="JUnit.HelloAppTest.testTooHighArgument" />
         <item itemvalue="JUnit.All in java-maven-junit-helloworld (1)" />
-        <item itemvalue="JUnit.HelloAppTest.testMain" />
-        <item itemvalue="JUnit.All in java-maven-junit-helloworld" />
       </list>
     </recent_temporary>
   </component>

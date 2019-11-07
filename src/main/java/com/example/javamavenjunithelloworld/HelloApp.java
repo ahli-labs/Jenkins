@@ -4,7 +4,6 @@ package com.example.javamavenjunithelloworld;
  * A very basic program that demonstrates the use of JUnit tests. The tests include a sample unit test and an
  * integration test.
  */
-//last test
 public class HelloApp {
 
     static int DEFAULT_TIMES = 3;

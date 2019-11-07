@@ -20,6 +20,8 @@ import static org.junit.jupiter.api.Assertions.fail;
 @ExtendWith(MockitoExtension.class)
 public class HelloAppTest {
     static SecurityManager originalSecurityManager;
+    //jenkins test
+    //zdfgsdfg
 
     @BeforeAll
     public static void setup() {

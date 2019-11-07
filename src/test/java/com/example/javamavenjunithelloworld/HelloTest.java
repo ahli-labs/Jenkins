@@ -52,9 +52,17 @@ public class HelloTest {
         assertThrows(IllegalArgumentException.class, () -> hi.setTimes(Hello.MAXIMUM_AMOUNT_OF_TIMES + 1));
     }
 
+
     @Test
     public void testIllegalArgumentForHelloNegative() {
         Hello hi = new Hello();
         assertThrows(IllegalArgumentException.class, () -> hi.setTimes(-1));
+    }
+
+    @Test
+    public void testhelloHamzeh(){
+        //new test
+        Hello hi = new Hello();
+        assertThat("Hamzeh", is(equalTo(hi.helloHamzeh())));
     }
 }

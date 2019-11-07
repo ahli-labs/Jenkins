@@ -3,11 +3,9 @@ package com.example.javamavenjunithelloworld;
 import java.io.PrintStream;
 
 /**
- * Simple class that says "Hello!!".
+ * Simple class that says "Hello!".
  */
 public class Hello {
-    //jenkins webhooktest
-    //test
 
     static final String HELLO = "Hello!";
 
@@ -40,6 +38,12 @@ public class Hello {
         for (short i = 0; i < times; i++) {
             printer.println(HELLO);
         }
+
+    }
+
+    public String helloHamzeh(){
+
+        return "Hamzeh";
     }
 
 }
