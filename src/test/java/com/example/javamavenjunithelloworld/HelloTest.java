@@ -63,6 +63,6 @@ public class HelloTest {
     public void testhelloHamzeh(){
         //new test
         Hello hi = new Hello();
-        assertThat("Hamzeh1", is(equalTo(hi.helloHamzeh())));
+        assertThat("Hamzeh", is(equalTo(hi.helloHamzeh())));
     }
 }

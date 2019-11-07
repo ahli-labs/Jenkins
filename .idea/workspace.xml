@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b97b268a-d117-477f-800d-ecd4e6626e74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/javamavenjunithelloworld/HelloTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +30,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HelloTest.testhelloHamzeh">
+  <component name="RunManager" selected="JUnit.All in java-maven-junit-helloworld (1)">
     <configuration name="All in java-maven-junit-helloworld (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-maven-junit-helloworld" />
       <option name="PACKAGE_NAME" value="" />
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in java-maven-junit-helloworld (1)" />
         <item itemvalue="JUnit.HelloTest.testhelloHamzeh" />
         <item itemvalue="JUnit.All in java-maven-junit-helloworld (3)" />
         <item itemvalue="JUnit.All in java-maven-junit-helloworld (2)" />
         <item itemvalue="JUnit.HelloAppTest.testTooHighArgument" />
-        <item itemvalue="JUnit.All in java-maven-junit-helloworld (1)" />
       </list>
     </recent_temporary>
   </component>
